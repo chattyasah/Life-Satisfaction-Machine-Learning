@@ -1,6 +1,4 @@
-# Life-Satisfaction-Machine-Learning
-
-# Project Portfolio: Predicting Life Satisfaction Across Europe
+# Predicting Life Satisfaction Across Europe
 
 ## Project Overview
 This project investigates the determinants of life satisfaction across Europe by leveraging predictive modeling techniques. By analyzing various quality of life (QoL) factors—health, social, economic, psychological, and environmental—the study provides insights into how these factors influence life satisfaction across different age groups. The research employs advanced logistic regression analysis to assess these relationships and understand the moderating effects of age.
